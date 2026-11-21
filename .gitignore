@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+.venv/
+venv/
+
+# Node & Web
+node_modules/
+web/node_modules/
+web/dist/
+.npm
+npm-debug.log*
+
+# Environment & Temp
+.env
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
